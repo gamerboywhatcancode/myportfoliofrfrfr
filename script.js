@@ -20,6 +20,6 @@ const SwitchPageInterests = () => {
 }
 
 HomeButton.addEventListener("click",function() {
-    window.location = '/'
+    window.location = 'index.html'
 })
 
