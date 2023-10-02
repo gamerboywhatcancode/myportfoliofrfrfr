@@ -1,0 +1,42 @@
+html{
+    background-color: black;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-align: center;
+    
+}
+
+.headingbody{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+
+.heading{
+    font-size: larger;
+}
+
+button{
+    color: black;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 20px 50px;
+    margin: 10px;
+    border: 1px solid #ffffff;
+    background: white;
+    font-family: monospace;
+    transition: 0.76s;
+    
+
+}
+
+button:hover{
+    color: red;
+    border-radius: 250px;
+}
+
+
